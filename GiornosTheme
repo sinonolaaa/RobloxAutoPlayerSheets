@@ -1,4 +1,4 @@
--- Sheet for Rondo Alla Turca by Wolfgang Amadeus Mozart
+-- Sheet for Giorno's Theme
 
 shared.stop = true -- stops the player at any time if true
 -- CONFIG:
