@@ -7,28 +7,5 @@ shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
 
 shared.scr = [[
-[7r] [7r] [7r] [6e] [7r] [9y] [7r] [$Q] [6e] 
-[7r] [7r] [7r] [6e] [7r] [qi] [0u] [9y] [6e] 
-[7r] [7r] [7r] [6e] [7r] [9y] [7r] [$Q] [6e] 
-[7r] [7r] [7r] [6e] [7r] [qi] [0u] [7r] [6e] 
-[7r] [7r] [7r] [6e] [7r] [9y] [7r] [$Q] [6e] 
-[7r] [7r] [7r] [6e] [7r] [qi] [0u] [9y] [6e] 
-[7r] [7r] [7r] [6e] [7r] [9y] [7r] [$Q] [6e] 
-[7r] [7r] [7r] [6e] [7r] 
-[7rQG] [%9qg] d f 
-[7rg] f d [$QS] d f 
-[7rQG] [%9qk] a S 
-[*Td] f d [$QS] j h 
-[7radQG] [%9qadg] d f 
-[S7rog] f d [$QPS] d f 
-[7raQG] [%9qgk] k L 
-[*Tkz] x h [$QG] z x 
-[7radQG] [%9qadg] d f 
-[7roag] f d [o$QS] d f 
-[7radQG] [%S9qgk] a S 
-[*Td] f d [$QS] j h 
-[7radQG] [%9qadg] d f 
-[7rdQG] [%9qgk] a S 
-[*Td] h G [$Qg] z J 
-[Q7k]
+[ues]|[us]|[tod]|[od]|[wda]|[da]|[qpd]|[pd]|[ues]|[us]|[tod]|[od]|[wda]|[da]|[qpi] [pif] fff[spf6] d [utse] pp[f8][od] [sod][wt]ppo5 [oda] [wr] df[spi4] a [qiea]ppo[spf6] d [utse] pp[f8][od] [sod][wt]ppo5 [oda] [wr] df[spi4] a [qpie]ppp[upd6][f0][fe][d0][tspfe] 6 [us8][wd][td]s[utsod] w [yso5][d9][wd][so9][wsrod] [d5]s[pid4][s8][qd]f[qied]s[tpi8] [upd6][f0][fe][d0][tspfe] [u6] [us8][wd][td]s[utsod] w [yso5][d9][wd][so9][wsrod]s[p5]p[pid4][s8][qd]f[qied]s[tpi8] [spf6][pfe][pd6][ed][tspfe] [spj6] [sof8]t[sod8]t[ut]88 [ypo5][wp][yp5]w[ywrpo] [p5]w[pid4]q[si4]q[qiea]4[p4] [spf6][pfe][pd6][ed][tspfe] [spj6] [sof8]t[sod8]t[ut]88 [ypo5][wp][yp5]w[ywrpo] [p5]w[pid4]q[si4]q[qiea]4[p4] [upd6][f0][fe][d0][tspfe] [u6] [us8][wd][td]s[utsod] w [yso5][d9][wd][so9][wsrod]s[p5]p[pid4][s8][qd]f[qied]s[tpi8] [upd6][f0][fe][d0][tspfe] [u6] [us8][wd][td]s[utsod] w [yso5][d9][wd][so9][wsrod]s[p5]p[pid4][s8][qd]f[qied]s[tpi8] [spf6][pfe][pd6][ed][tspfe] [spj6] [sof8]t[sod8]t[ut]88 [ypo5][wp][yp5]w[ywrpo] [p5]w[pid4]q[si4]q[qiea]4[p4] [spf6][pfe][pd6][ed][tspfe] [spj6] [sof8]t[sod8]t[ut]88 [ypo5][wp][yp5]w[ywrpo] [p5]w[pid4]q[si4]q[qiea]4[p4] [spf6]0[ed]0[utse] [p6]p[f8][wod]t[sod][ut]p[wp]o59[woda]9[wr] [od5]f[spi4]8[qa] [qiea]p[p8]o[spf6]0[ed]0[utse] [p6]p[f8][wod]t[sod][ut]p[wp]o59[woda]9[wr] [od5]f[spi4]8[qa] [qpie]|[oe60] p o p [wto8]opps p [wo95]oppoopp[qo84] p [so] p [pfe60]ddsdsds[wtpd8]sdsf p [wof95]ddsdsds[qid84]sdf[si] p [pfe60] d dds[pf][wt8]d d ddp[wpf95] d [od]ds[oh][q84]d s ppp[se60] d dpp[pf][wt8][pd] [pd] ppp[w95] [oa]|ap[sqi84] a p[xjf][xjf][xjf][xjf6]0[zed]0[tsle] [pj6][pj][xjf8][zwd]t[zd][ut][pj][wpj][oh]59[zwhd]9[wr] [zhd5][xf][sl4]8[qka] [qkea][pj][pj8][oh][xjf6]0[zed]0[tsle] [pj6][pj][xjf8][zwd]t[zd][ut][pj][wpj][oh]59[zwhd]9[wr] [zhd5][xf][sl4]8[qka] [qpje]|[ues]|[us]|[tod]|[od]|[wda]|[da]|[qpd]|[pd]|[ues]|[us]|[tod]|[od]|[wda]|[da]|[qpd]
 ]]
